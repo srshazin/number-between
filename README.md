@@ -12,10 +12,11 @@ This simple module will help you to check if a number is between specific two nu
 The function always returns a Boolean Value
 
 <h3>Example</h3>
+If I want to check if <code> 85 </code> is betweeen 50 and 100 I can write the following code !
 <pre>
 <code>
-  x = bet(50, 85, 100)
-  print(x) #Returns True
-  </code>
+x = bet(50, 85, 100)
+print(x) #Returns True
+</code>
 </pre>
  
