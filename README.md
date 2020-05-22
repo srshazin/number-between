@@ -10,7 +10,7 @@ This simple module will help you to check if a number is between specific two nu
   
 The function always returns a Boolean Value
 
-<3>Example</h3>
+<h3>Example</h3>
 
 <code>
   x = bet(50, 85, 100)
